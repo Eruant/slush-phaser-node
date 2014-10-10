@@ -1,6 +1,6 @@
 {
   "name": "slush-phaser-node",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "A slush generator for createing phaser games using browserify as a module system",
   "keywords": [
     "slushgenerator",
@@ -23,6 +23,6 @@
     "gulp-install": "^0.1.5",
     "gulp-rename": "^1.2.0",
     "gulp-template": "^0.1.1",
-    "inquirer": "^0.5.0"
+    "inquirer": "^0.8.0"
   }
 }
