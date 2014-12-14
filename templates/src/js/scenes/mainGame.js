@@ -4,7 +4,7 @@
  */
 var game = require('../game'),
   localisation = require('../locale'),
-  Label = require('../classes/label');
+  Label = require('../classes/Label');
 
 module.exports = {
 
